@@ -1,8 +1,4 @@
-# Veri Bilim - Yapay Öğrenme Yaz Okulu, 2017<br />"Matematiksel Temeller ve Vaka Çalışmaları"
-
-Yaz okulu sonunda katılımcılardan toplanan 4.100 TL'yi [Çağdaş Yaşamı Destekleme Derneği'ne](https://www.cydd.org.tr/) bağışladık. Hepinize çok teşekkürler!
-
----
+# Veri Bilim - Yapay Öğrenme Yaz Okulu, 2018<br />"Matematiksel Temeller ve Vaka Çalışmaları"
 
 Uygulama derslerinde ağırlıklı olarak Python 3.6 programlama dili kullanılacaktır. Dersler için gerekli olan paketleri de içeren [Anaconda](https://www.anaconda.com/download/) dağıtımını bilgisayarınıza kurup gelmeniz yeterli olacaktır.
 
@@ -10,8 +6,10 @@ Program detayları aşağıda verilmiştir.
 
 ## Program
 
-![Birinci Hafta](./diger/VBYOHafta1.png)
-![İkinci Hafta](./diger/VBYOHafta2.png)
+![Birinci Gün](./diger/VBYOHafta1.png)
+![İkinci Gün](./diger/VBYOHafta2.png)
+![Üçüncü Gün](./diger/VBYOHafta2.png)
+![Dördüncü Gün](./diger/VBYOHafta2.png)
 
 ### Veri Bilim Yöntemlerine ve Uygulamalarına Genel Bakış (Taylan Cemgil)
 
