@@ -77,7 +77,7 @@ Program detayları aşağıda verilmiştir.
 
 ### İlker Birbil
 
-İlker Birbil, doktora çalışmasını 2002 yılında North Carolina State Üniversitesi’nde Endüstri Mühendisliği ana dalı ile Yöneylem Araştırması ve Matematik yan dallarında tamamlamıştır. 2002 - 2004 yılları arasında Erasmus Yönetim Araştırma Enstitüsü’nde (Hollanda) doktora sonrası araştırma bursu ile çalışmalarını sürdüren İlker Birbil, 2004 yılından bugüne dek Sabancı Üniversitesi’nde öğretim üyesi olarak görev almaktadır. Matematiksel programlama alanında algoritma tasarımı genel başlığı altında toplanabilecek kuramsal ve uygulamalı pek çok çalışması vardır.
+İlker Birbil, doktora çalışmasını 2002 yılında North Carolina State Üniversitesi’nde Endüstri Mühendisliği ana dalı ile Yöneylem Araştırması ve Matematik yan dallarında tamamlamıştır. 2002-2004 yılları arasında Erasmus Yönetim Araştırma Enstitüsü’nde (Hollanda) doktora sonrası araştırma bursu ile çalışmalarını sürdüren İlker Birbil, 2004-2017 yılları arasında Sabancı Üniversitesi’nde öğretim üyesi olarak görev almıştır. Şu anda çalışmalarını Erasmus Üniversitesi, Ekonometri Enstitüsü'nde sürdürmektedir. Matematiksel programlama alanında algoritma tasarımı genel başlığı altında toplanabilecek kuramsal ve uygulamalı pek çok çalışması vardır.
 
 ### Ali Taylan Cemgil
 
