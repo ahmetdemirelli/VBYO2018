@@ -6,10 +6,7 @@ Program detayları aşağıda verilmiştir.
 
 ## Program
 
-![Birinci Gün](./diger/VBYOHafta11.png)
-![İkinci Gün](./diger/VBYOHafta21.png)
-![Üçüncü Gün](./diger/VBYOHafta21.png)
-![Dördüncü Gün](./diger/VBYOHafta21.png)
+(./diger/VBYO2018-program.png)
 
 ### Veri Bilim Yöntemlerine ve Uygulamalarına Genel Bakış (Taylan Cemgil)
 
