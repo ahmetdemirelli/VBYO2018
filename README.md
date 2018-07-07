@@ -28,38 +28,23 @@ Program detayları aşağıda verilmiştir.
 3. Doğrusal olmayan programlama
 4. Yapay öğrenme problemlerinde çözüm yöntemleri
 
-### Vaka Çalışmaları 1 - Güdümlü Öğrenme (Birol Yüceoğlu)
-1. Kredi risk tahmini
+### Vaka Çalışmaları - (Birol Yüceoğlu)
+1. Güdümlü Öğrenme: Kredi risk tahmini
   * Verinin temizlenmesi
   * Öznitelik türetme
   * Tahmin modellerinin uygulanması
   * Parametrelerin belirlenmesi
-2. Google Street View fotoğraflarından karakter tanıma
-  * Veri kümelerinin oluşturulması
-  * Tahmin modellerinin uygulanması
-  * Veri kümesinin zenginleştirilmesi
-
-### Optimizasyon Uygulamaları (Kaan Öztürk)
-
-1. En dik iniş, Newton, ve sahte-Newton algoritmaları
-2. Stokastik dik iniş, mini yığın algoritmaları.
-3. Çeşitli optimizasyon algoritmalarıyla el yazısı rakam tanıma.
-4. Scipy ile optimizasyon.
-
+2. Güdümsüz Öğrenme: Perakendede müşteri segmentasyonu
+  * Veri kümesinin temizlenmesi
+  * K-ortalamalar yöntemiyle segmentlerin belirlenmesi
+  * Sonuçların değerlendirilmesi
+  
 ### Simülasyon (Sinan Yıldırım)
 
 1. Temel örnekleme yöntemleri
 2. Önem örneklemesi
 3. Markov zinciri Monte Carlo
 4. Bayesci çıkarım uygulamaları
-
-### Vaka Çalışmaları 2 - Güdümsüz öğrenme (Birol Yüceoğlu)
-
-1. Perakendede müşteri segmentasyonu
-  * Veri kümesinin temizlenmesi
-  * K-ortalamalar yöntemiyle segmentlerin belirlenmesi
-  * Sonuçların değerlendirilmesi
-2. MINST veri kümesi ile güdümsüz öğrenme
 
 ### Simülasyon Uygulamaları (Kaan Öztürk)
 
@@ -76,11 +61,6 @@ Program detayları aşağıda verilmiştir.
 3. CUDA ile GPU tabanlı paralel hesaplamaya giriş
 4. Python ile paralel hesaplamaya giriş
 
-### Paralel Öğrenme (Berrin Yanıkoğlu, Sara Ahmed, Kamer Kaya)
-
-1. Python ile paralel makine öğrenmesi
-2. Derin öğrenme
-
 ### Hadoop Üzerinde Büyük Veri İşleme Uygulamaları (Ahmet Demirelli)
 
 1. Büyük veri depolama ve Hadoop
@@ -91,14 +71,9 @@ Program detayları aşağıda verilmiştir.
 6. Spark ile veri dönüşümü işlemleri (Transformation ve Action  metodları)
 7. Apache Spark ML (Machine Learning) kütüphanesi
 
-
 
 
 ## Dersleri Verenler
-
-### Sara Ahmed
-
-Sara Ahmed, lisans derecesini 2011'de Mısır'ın Ain Shams Üniversitesi'nden, yüksek lisans derecesini 2014 yılında Nil Üniversitesi'nden almıştır. Şu anda Sabancı Üniversitesi'nde derin öğrenme ve nitelik temelli sınıflandırma üzerine doktora çalışmalarını sürdürmektedir.
 
 ### İlker Birbil
 
@@ -115,14 +90,6 @@ Ahmet Demirelli, 2002 yılı Marmara Üniversitesi Matematik Öğretmenliği ve 
 ### Kamer Kaya
 
 Kamer Kaya, doktorasını 2009 yılında Bilkent Üniversitesi Bilgisayar Mühendisliği bölümünden almıştır. Daha sonra Fransa'daki CERFACS Araştırma Merkezi'nde Parallel Algoritmalar projesinde çalışmalarını sürdürmüş, 2011 yılında Ohio Eyalet Üniversitesi'ne doktora sonrası araştırma görevlisi olarak katılmıştır. 2012 yılında aynı üniversitede Yardımcı Doçent olarak çalışmaya başlayan Dr. Kaya, 2014 yılından beri Sabancı Üniversitesi'nde öğretim üyesi olarak görev almaktadır. Yüksek başarımlı hesaplama, paralel algoritmalar ve kriptografi alanlarında birçok çalışması bulunmaktadır.
-
-### Kaan Öztürk
-
-Kaan Öztürk, fizik lisans ve yüksek lisans derecelerini Boğaziçi Üniversitesi'nden, fizik doktora derecesini Rice Üniversitesi'nden aldı. Işık ve Yeditepe üniversitelerinin bilişim bölümlerinde öğretim üyesi olarak görev yaptı. 2015-2016 döneminde TÜBİTAK desteğiyle Rice Üniversitesi'nde ziyaretçi araştırmacı, 2016-2017 döneminde ise Sabancı Üniversitesi'nde doktoraüstü araştırmacı olarak çalıştı. Yapay öğrenme uygulamaları, hesaplamalı fizik, karmaşık sistemler konularıyla ilgileniyor.
-
-### Berrin Yanıkoğlu
-
-Berrin Yanıkoğlu, 1988 yılında Boğaziçi Üniversitesi Bilgisayar Bilimleri ve Matematik Bölümlerinden lisans diplomalarını aldı. 1993 yılında, Dartmouth College'de Bilgisayar Bilimleri alanında doktora çalışmalarını tamamladı. 2000 yılından beri Sabancı Üniversitesi Mühendislik ve Doğa Bilimleri Fakültesi’nde öğretim üyesi olarak görev yapmaktadır. Dr. Yanıkoğlu'nun araştırma alanları el yazısı tanıma, biyometri (imza, yüz, parmak izi), fotoğraflardan bitki tanıma ve duygu analizi üzerine odaklanarak görüntü anlama ve metin analizlerine uygulanan model tanıma ve makine öğrenimidir. Dr. Yanıkoğlu, öğrencileri ve meslektaşları ile birlikte yaptıkları çalışmalarla çeşitli uluslararası imza doğrulama yarışmalarında birincilik ödülü kazanmıştır.
 
 ### Sinan Yıldırım
 
