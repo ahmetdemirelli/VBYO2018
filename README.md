@@ -6,7 +6,7 @@ Program detayları aşağıda verilmiştir.
 
 ## Program
 
-(./diger/VBYO2018-program.png)
+!(./diger/VBYO2018-program.png)
 
 ### Veri Bilim Yöntemlerine ve Uygulamalarına Genel Bakış (Taylan Cemgil)
 
