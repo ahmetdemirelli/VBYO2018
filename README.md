@@ -3,8 +3,13 @@
 Yaz okuluna katılmak için doldurmanız gereken formu
 [şu adreste](https://docs.google.com/forms/d/e/1FAIpQLSdcto6f73IELxL2gDSiiaPuKZ6odZOMUSg1TcXoNGI_1-YWYA/viewform?c=0&w=1&usp=mail_form_link)
 bulabilirsiniz. Yer kısıtı nedeniyle, formu dolduran bazı arkadaşları
-davet etmemiz mümkün olayabilir. Ancak ders
+davet etmemiz mümkün olmayabilir. Ancak ders
 malzemelerinin tamamına bu sayfadan erişebilirsiniz.
+
+Okula katılım öğrenciler ve akademisyenler için ücretsizdir. Diğer
+arkadaşlardan ise kişi başı 250 TL ücret alacağız. Masraflar
+düşüldükten sonra kalan miktarı
+[bir önceki yaz okulunda](https://github.com/sibirbil/VBYO) yaptığımız gibi bağışlayacağız.
 
 Uygulama derslerinde ağırlıklı olarak Python 3.6 programlama dili kullanılacaktır. Dersler için gerekli olan paketleri de içeren [Anaconda](https://www.anaconda.com/download/) dağıtımını bilgisayarınıza kurup gelmeniz yeterli olacaktır.
 
@@ -103,4 +108,4 @@ Birol Yüceoğlu, lisans ve yüksek lisans eğitimini Sabancı Üniversitesi End
 
 ---
 
-Bir önceki yaz okulumuzun sayfasına [şuradan](https://github.com/sibirbil/VBYO) ulaşabilirsiniz.
+Bir önceki yaz okulumuzun sayfasına [şuradan]() ulaşabilirsiniz.
