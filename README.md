@@ -104,8 +104,3 @@ Sinan Yıldırım, Boğaziçi Üniversitesi Elektrik-Elektronik Mühendisliği B
 ### Birol Yüceoğlu
 
 Birol Yüceoğlu, lisans ve yüksek lisans eğitimini Sabancı Üniversitesi Endüstri Mühendisliği bölümünde tamamladı. Doktora eğitimini 2015 yılında  Maastricht Üniversitesi'nde Yöneylem Araştırması üzerine yaptı. Halen Migros T.A.Ş. Ar-Ge Merkezi'nde çalışmakta ve Sabancı Üniversitesi Veri Analitiği Tezsiz Yüksek Lisans programında ders vermektedir. Araştırma alanları veri analizi uygulamaları, çizge teorisi ve tamsayı programlamadır.
-
-
----
-
-Bir önceki yaz okulumuzun sayfasına [şuradan]() ulaşabilirsiniz.
