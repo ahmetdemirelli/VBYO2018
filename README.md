@@ -1,5 +1,11 @@
 # Veri Bilim - Yapay Öğrenme Yaz Okulu, 2018<br />"Matematiksel Temeller ve Vaka Çalışmaları"
 
+Yaz okuluna katılmak için doldurmanız gereken formu
+[şu adreste](https://docs.google.com/forms/d/e/1FAIpQLSdcto6f73IELxL2gDSiiaPuKZ6odZOMUSg1TcXoNGI_1-YWYA/viewform?c=0&w=1&usp=mail_form_link)
+bulabilirsiniz. Yer kısıtı nedeniyle, formu dolduran bazı arkadaşların
+katılması mümkün olayabilir. Lütfen kusura bakmayın. Ancak ders
+malzemelerinin tamamına bu sayfadan erişebilirsiniz.
+
 Uygulama derslerinde ağırlıklı olarak Python 3.6 programlama dili kullanılacaktır. Dersler için gerekli olan paketleri de içeren [Anaconda](https://www.anaconda.com/download/) dağıtımını bilgisayarınıza kurup gelmeniz yeterli olacaktır.
 
 Program detayları aşağıda verilmiştir.
