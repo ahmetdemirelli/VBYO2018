@@ -13,6 +13,12 @@ düşüldükten sonra kalan miktarı
 
 Uygulama derslerinde ağırlıklı olarak Python 3.6 programlama dili kullanılacaktır. Dersler için gerekli olan paketleri de içeren [Anaconda](https://www.anaconda.com/download/) dağıtımını bilgisayarınıza kurup gelmeniz yeterli olacaktır.
 
+Dersler Boğaziçi Üniversitesi Teleiletişim ve Enformatik Teknolojileri Uygulama ve Araştırma Merkezi (TETAM) binasında yapılacaktır.
+Adres: 
+TETAM Binası
+Boğaziçi Üniversitesi Kandilli Kampüsü
+Kandilli, Istanbul 34684
+
 Program detayları aşağıda verilmiştir.
 
 ## Program
