@@ -1,9 +1,5 @@
 # Veri Bilim - Yapay Öğrenme Yaz Okulu, 2018<br />"Matematiksel Temeller ve Vaka Çalışmaları"
-```
-Yaz okuluna katılmak için doldurmanız gereken formu
-[şu adreste](https://docs.google.com/forms/d/e/1FAIpQLSdcto6f73IELxL2gDSiiaPuKZ6odZOMUSg1TcXoNGI_1-YWYA/viewform?c=0&w=1&usp=mail_form_link)
-bulabilirsiniz. 
-```
+
 Yaz okulu kayıtlarımız kapanmıştır.
 Yer kısıtı nedeniyle, formu dolduran bazı arkadaşları
 davet etmemiz mümkün olmayabilir. Ancak ders
