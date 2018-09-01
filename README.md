@@ -8,7 +8,7 @@ malzemelerinin tamamına bu sayfadan erişebilirsiniz.
 Okula katılım öğrenciler ve akademisyenler için ücretsizdir. Diğer
 arkadaşlardan ise kişi başı 250 TL ücret alacağız. Masraflar
 düşüldükten sonra kalan miktarı
-[bir önceki yaz okulunda](https://github.com/sibirbil/VBYO) yaptığımız gibi bağışlayacağız.
+[bir önceki yaz okulunda](https://github.com/sibirbil/VBYO) yaptığımız gibi bağışlayacağız ya da gelecek yaz okullarında  burs olarak kullanacağız.
 
 Uygulama derslerinde ağırlıklı olarak Python 3.6 programlama dili kullanılacaktır. Dersler için gerekli olan paketleri de içeren [Anaconda](https://www.anaconda.com/download/) dağıtımını bilgisayarınıza kurup gelmeniz yeterli olacaktır.
 
